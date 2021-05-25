@@ -2,7 +2,7 @@ THP - Jour 38
 
 - Projet : Molécules et organismes
 
-- Création d'un ichier index.html qui affiche plein de liens pour des pages contenant les molécules et organismes concernés.
+- Création d'un fichier index.html qui affiche plein de liens pour des pages contenant les molécules et organismes concernés.
 - Fichiers :
 - navbar.html
 - footer.html

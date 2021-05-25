@@ -70,6 +70,27 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+/* Jumbotron */
+
+.jumbotron-main {
+  padding: 180px;
+  background-image: url("images/jumbo-main.jpg");
+  text-transform: uppercase;
+  text-shadow: #1a3c40 1px 0 10px;
+  color: white;
+  background-repeat: no-repeat;
+  background-position-y: 50%;
+}
+
+.jumbotron-small {
+  padding: 120px;
+  background-image: url("images/jumbo-small.jpg");
+  text-shadow: #1a3c40 1px 0 10px;
+  color: white;
+  background-repeat: no-repeat;
+  background-position-y: 40%;
+}
+
 /* Footer Section */
 
 .social-icon {
